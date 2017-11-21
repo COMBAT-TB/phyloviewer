@@ -1,3 +1,4 @@
 node_modules/
 phyloviewer/static/scripts/js/
 phyloviewer/__pycache__/
+phyloviewer/static/data/
