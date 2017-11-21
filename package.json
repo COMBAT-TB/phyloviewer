@@ -1,0 +1,31 @@
+{
+  "name": "combattb_phyloviewer",
+  "version": "1.0.0",
+  "description": "A Web app for viewing a phylogeny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sanbidev/combattb_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sanbidev/combattb_web#readme",
+  "devDependencies": {
+    "babel-loader": "^6.4.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.23.0",
+    "babelify": "^7.3.0",
+    "del": "^2.2.2",
+    "reactify": "^1.1.1",
+    "webpack": "^1.9.11"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.8",
+    "phylocanvas": "^2.8.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1"
+  }
+}
